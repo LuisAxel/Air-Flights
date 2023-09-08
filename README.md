@@ -3,7 +3,7 @@ Air-Flights
 ###### Realizado por Núñez Quintana Luis Axel y Zárate García Zuriel
 
 
-En este proyecto, se realiza la creación de una **base de datos relacionales oracle** a partir de un caso de estudio.
+En este proyecto, se realiza la creación de una **base de datos relacional oracle** a partir de un caso de estudio.
 
 Se estudia lo siguiente:
 1. Abstracción de [reglas de negocio](https://github.com/LuisAxel/Air-Flights/blob/main/Requerimientos/Caso%20de%20estudio.pdf).
