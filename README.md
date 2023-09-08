@@ -1,6 +1,6 @@
 Air-Flights
 ===========
-### Realizado por Núñez Quintana Luis Axel y Zárate García Zuriel
+###### Realizado por Núñez Quintana Luis Axel y Zárate García Zuriel
 
 
 En este proyecto, se realiza la creación de una **base de datos relacionales oracle** a partir de un caso de estudio.
